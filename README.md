@@ -9,3 +9,5 @@ Aulinha pra aprender git
 - git add {nome-arquivo}
 - git add . (adiciona tudo)
 - git commit -m "Mensagem do commit"
+- git push 
+- git pull
